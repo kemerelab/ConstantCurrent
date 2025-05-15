@@ -2305,7 +2305,7 @@
 				)
 			)
 		)
-		(property "Description" "Resistor"
+		(property "Description" "4320 Package - https://mou.sr/3Fbcq5O"
 			(at 0 0 -90)
 			(unlocked yes)
 			(layer "F.Fab")

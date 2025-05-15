@@ -2590,7 +2590,7 @@
 				)
 			)
 		)
-		(property "Value" "LT3083IT-PBF"
+		(property "Value" "LT3083ET-PBF"
 			(at 68.58 29.21 0)
 			(effects
 				(font
@@ -2608,7 +2608,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "LT3083IT-40PBF"
+		(property "Datasheet" "LT3083ET-40PBF"
 			(at 35.56 36.83 0)
 			(effects
 				(font
@@ -2618,7 +2618,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "https://mou.sr/4keM01S"
 			(at 35.56 36.83 0)
 			(effects
 				(font
@@ -3176,7 +3176,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "AD5293BRUZ-100"
+		(property "Datasheet" "AD5293BRUZ-20"
 			(at 35.56 64.77 0)
 			(effects
 				(font
@@ -3186,7 +3186,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "https://mou.sr/4dheQwe"
 			(at 35.56 64.77 0)
 			(effects
 				(font
